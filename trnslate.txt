@@ -1,0 +1,20 @@
+eProcurement instructions 
+involve using online software 
+for business purchasing, 
+streamlining needs identification, 
+supplier sourcing, 
+bidding/tendering, 
+evaluation, 
+contracting, 
+and payment through digital workflows, 
+requiring user registration 
+(like EU Login or portal-specific IDs), 
+secure login 
+(often with digital certificates/DSC), 
+and following steps 
+to find calls, 
+upload documents, 
+and submit electronically, 
+ensuring all stages 
+are managed digitally 
+for efficiency and cost savings. 
